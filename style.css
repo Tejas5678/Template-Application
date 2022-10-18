@@ -1,0 +1,17 @@
+.form {
+    padding-left: 600px;
+    padding-top: 250px;
+    border-radius: solid 70px;
+}
+
+body {
+    background-color: black;
+}
+
+.title {
+    color: white;
+}
+
+.subtitle {
+    color: white;
+}
